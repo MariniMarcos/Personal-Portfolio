@@ -8,15 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hola a tods, mi nombre es <span className="purple">Marcos Marini </span>
-            actualmente vivo en  <span className="purple"> Buenos aires, Argentina.</span>
+            Hola a todos, mi nombre es <span className="purple">Marcos Marini </span>
+            actualmente vivo en  <span className="purple"> Buenos Aires, Argentina.</span>
             <br /> Soy Licenciado en Administración de empresas egresado de la Universidad Nacional de San Martín.
             <br />
-            Adicionalmente, comence mis estudios y mi carrera como desarrollador frontend en el 2022, 
+            Adicionalmente, comencé mis estudios y mi carrera como desarrollador frontend en el 2022, 
             consiguiendo la certificación en <span className="purple">Coderhouse.</span>
             <br />
             <br />
-            Ademas de trabajar y seguir aprendiendo codigo todos los dias, disfruto de 
+            Además de trabajar y seguir aprendiendo código todos los dias, disfruto de 
           </p>
           <ul>
             <li className="about-activity">

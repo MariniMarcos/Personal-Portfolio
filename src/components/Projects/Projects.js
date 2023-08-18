@@ -26,7 +26,7 @@ function Projects() {
               imgPath={Diseño2}
               isBlog={false}
               title="Gestionalo"
-              description="Gestionalo es un gestor de stock que nace de la necesidad de digitalizar el proceso de ingreso de piezas y productos. El proyecto cuenta con login, movimiento de stock, listado con filtros, y sistema de tickets con impresion en Pdf o Excel. Esta diseñado con React js, librerias de Javascript y Bootstrap."
+              description="Gestionalo es un gestor de stock que nace de la necesidad de digitalizar el proceso de ingreso de piezas y productos. El proyecto cuenta con login, movimiento de stock, listado con filtros, y sistema de tickets con impresión en Pdf o Excel. Esta diseñado con React js, librerías de Javascript y Bootstrap."
               ghLink="https://github.com/MariniMarcos/Gestionalo"
               demoLink="https://gestionalo.vercel.app/"
             />
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={Diseño1}
               isBlog={false}
               title="CryptoArg"
-              description="CryptoArg es una aplicacion web que nace con el objetivo de mostrarle a las personas de Argentina la cotizacion de las 100 Cryptomonedas mas importantes y a su vez la cotizacion del dolar paralelo ya que es muy importante para sus vidas. La app esta diseñada en React js, Librerias de Javascript, Api Coingecko, Api Dolar y Bootstrap."
+              description="CryptoArg es una aplicación web que nace con el objetivo de mostrarle a las personas de Argentina la cotización de las 100 Cryptomonedas mas importantes y a su vez la cotización del dolar paralelo ya que es muy importante para sus vidas. La app esta diseñada en React js, librerías de Javascript, Api Coingecko, Api Dolar y Bootstrap."
               ghLink="https://github.com/MariniMarcos/Cryptocurrencies-list"
               demoLink="https://cryptocurrencies-list.vercel.app/"
             />
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={Diseño3}
               isBlog={false}
               title="SkinPro"
-              description="SkinPro nace con la finalidad de construir un E-commerce funcional con carrito de compra, lista de prodcutos y filtros de navegacion como entrega final de la carrera de Desarrollo Fronted en Coderhouse, El proyecto esta realizado en React Js, Librerias de Javascript y Bootstrap."
+              description="SkinPro nace con la finalidad de construir un E-commerce funcional con carrito de compra, lista de productos y filtros de navegación como entrega final de la carrera de Desarrollo Fronted en Coderhouse, El proyecto esta realizado en React Js, librerías de Javascript y Bootstrap."
               ghLink="https://github.com/MariniMarcos/proyectofinal_react_marinimarcos"
               demoLink="https://proyectofinal-react-marinimarcos.vercel.app/"              
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={Diseño4}
               isBlog={false}
               title="Iphone Calculator"
-              description="Iphone Calculator nace con la idea de imitar la calculadora de iphone, su unico objetivo fue mejorar las practicas y logicas de Javascript es por eso que esta diseñada enteramente en Javascript vanilla, Html y Css"
+              description="Iphone Calculator nace con la idea de imitar la calculadora de iphone, su único objetivo fue mejorar las prácticas y lágicas de Javascript es por eso que esta diseñada enteramente en Javascript vanilla, Html y Css"
               ghLink="https://github.com/MariniMarcos/Iphone-Calculator-Proyect"
               demoLink="https://marinimarcos.github.io/Iphone-Calculator-Proyect/"
             />
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={Diseño5}
               isBlog={false}
               title="Simulador consumo Eléctrico"
-              description="El simulador de consumo electrico nace con la idea de imitar el simulador de edenor la empresa que brinda energia electrica, la idea principal es que el usuario coloque que que electrodomesticos de su casa tiene, cuantos de estos posee, y que cantidad de horas usa los mismos.Con estos datos el simulador arrojara un consumo estimado."
+              description="El simulador de consumo eléctrico nace con la idea de imitar el simulador de edenor la empresa que brinda energia eléctrica, la idea principal es que el usuario coloque que que eléctrodomesticos de su casa tiene, cuantos de estos posee, y que cantidad de horas usa los mismos.Con estos datos el simulador arrojaré un consumo estimado."
               ghLink="https://github.com/MariniMarcos/Simulador-Consumo-Electrico---Entrega-final-JS--Marini-Marcos"
               demoLink="https://melodious-lolly-b984d5.netlify.app/"
             />
@@ -81,7 +81,7 @@ function Projects() {
               imgPath={Diseño6}
               isBlog={false}
               title="Nbl Corte laser"
-              description="Nbl Corte laser nace con la idea de digital una empresa de corte laser, es un a pagina web con 6 secciones en donde se recorre la historia de la misma, los servicios, el contacto, una seccion de Faqs, ente otras. Modelada enteramente con Html y Css busca lograr un diseño actractivo y simple"
+              description="Nbl Corte laser nace con la idea de digitalizar una empresa de corte laser, es un a página web con 6 secciones en donde se recorre la historia de la misma, los servicios, el contacto, una sección de Faqs, entre otras. Modelada enteramente con Html y Css busca lograr un diseño actractivo y simple"
               ghLink="https://github.com/MariniMarcos/nbl_cortelaser_marini"
               demoLink="https://marinimarcos.github.io/nbl_cortelaser_marini/"
             />

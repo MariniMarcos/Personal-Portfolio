@@ -19,7 +19,7 @@ function Home2() {
               DEJAME <span className="purple"> PRESENTARME </span>
             </h1>
             <p className="home-about-body">
-            Fanático de la tecnología y de la programación, en 2022 decidi comenzar mi carrera en el mundo IT, desde entonces solo busco aportar mi granito de arena en distintos proyectos mientras sigo mejorando mis skills.
+            Fanático de la tecnología y de la programación, en 2022 decidí comenzar mi carrera en el mundo IT, desde entonces solo busco aportar mi granito de arena en distintos proyectos mientras sigo mejorando mis skills.
               <br />
               <br />Me siento comodo programando en
               <i>
