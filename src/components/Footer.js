@@ -17,7 +17,7 @@ function Footer() {
           <h3>Diseñado y desarrollado por Marini Marcos</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} MM</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
