@@ -21,6 +21,18 @@ function Projects() {
           Les dejo algunos proyectos personales en los que he trabajado.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Diseño6}
+              isBlog={false}
+              title="The New Spika"
+              description="Un proyecto que nace con la finalidad de lograr que muchos usuarios puedan contar con una especie de radio que contenga la mayoria las frecuencias de radio que hay en la argentina en una sola aplicacion si la necesidad de contar con una antena ni tener que entrar a cada pagina particular de la radio. The New Spika vino a juntar todas las radios en una sola aplicacion y mediante un diseño intuitivo y agradable los usuarios podrán navegar  por todas las frecuencias."
+              ghLink="https://github.com/MariniMarcos/thenewspika"
+              demoLink="https://thenewspika.vercel.app/"
+            />
+          </Col>
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Diseño2}
@@ -76,16 +88,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Diseño6}
-              isBlog={false}
-              title="Nbl Corte laser"
-              description="Nbl Corte laser nace con la idea de digitalizar una empresa de corte laser, es un a página web con 6 secciones en donde se recorre la historia de la misma, los servicios, el contacto, una sección de Faqs, entre otras. Modelada enteramente con Html y Css busca lograr un diseño actractivo y simple"
-              ghLink="https://github.com/MariniMarcos/nbl_cortelaser_marini"
-              demoLink="https://marinimarcos.github.io/nbl_cortelaser_marini/"
-            />
-          </Col>
+          
 
         </Row>
       </Container>
